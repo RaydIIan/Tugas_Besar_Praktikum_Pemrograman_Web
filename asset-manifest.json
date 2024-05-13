@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tugas_Besar_Praktikum_Pemrograman_Web/static/css/main.de7112aa.css",
+    "main.js": "/Tugas_Besar_Praktikum_Pemrograman_Web/static/js/main.6e627f80.js",
+    "index.html": "/Tugas_Besar_Praktikum_Pemrograman_Web/index.html",
+    "main.de7112aa.css.map": "/Tugas_Besar_Praktikum_Pemrograman_Web/static/css/main.de7112aa.css.map",
+    "main.6e627f80.js.map": "/Tugas_Besar_Praktikum_Pemrograman_Web/static/js/main.6e627f80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de7112aa.css",
+    "static/js/main.6e627f80.js"
+  ]
+}
